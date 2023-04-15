@@ -6,6 +6,9 @@
 | 3     | Added Docstring Example for Bidirectional Shortest Path | https://github.com/networkx/networkx/pull/6570| 
 | 4     | Added Greedy Coloring Example to Gallery | https://github.com/networkx/networkx/pull/6637| 
 
+# Issues Created :- 
+1. https://github.com/networkx/nx-guides/issues/109
+
 
 # To be Added :- 
 
