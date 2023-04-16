@@ -5,7 +5,7 @@
 | 2     | Python Script for Lowest Common Ancestor | https://github.com/networkx/networkx/pull/6552 | Open|
 | 3     | Added Docstring Example for Bidirectional Shortest Path | https://github.com/networkx/networkx/pull/6570| Merged|
 | 4     | Added Greedy Coloring Example to Gallery | https://github.com/networkx/networkx/pull/6637| Open|
-| 5     | Fix Links in Eigenvector.py and katz_centrality.py |https://github.com/networkx/networkx/pull/6640| Open|
+| 5     | Fix Links in Eigenvector.py and katz_centrality.py |https://github.com/networkx/networkx/pull/6640| Merged|
 # Issues Created :- 
 1. https://github.com/networkx/nx-guides/issues/109
 
