@@ -8,6 +8,8 @@
 | 5     | Fix Links in Eigenvector.py and katz_centrality.py |https://github.com/networkx/networkx/pull/6640| Merged|
 | 6     | Improve Test Coverage for Semiconnected.py |https://github.com/networkx/networkx/pull/6645| Open|
 | 7     | Improve Test Coverage for current_flow_closeness.py |https://github.com/networkx/networkx/pull/6677| Open|
+| 8     | Improve Test Coverage for reaching.py |https://github.com/networkx/networkx/pull/6678| Open|
+
 
 # Issues Created :- 
 1. https://github.com/networkx/nx-guides/issues/109
