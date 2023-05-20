@@ -1,7 +1,7 @@
 # Contributions
 | Index | Topic | Link | Status |
 | ----- | -------- | -------- | -------- |
-| 1     | Doctstring Example for Dense.py.| https://github.com/networkx/networkx/pull/6669| Open| 
+| 1     | Doctstring Example for Dense.py.| https://github.com/networkx/networkx/pull/6669| Merged| 
 | 2     | Python Script for Lowest Common Ancestor | https://github.com/networkx/networkx/pull/6552 | Closed- Duplicate|
 | 3     | Added Docstring Example for Bidirectional Shortest Path | https://github.com/networkx/networkx/pull/6570| Merged|
 | 4     | Added Greedy Coloring Example to Gallery | https://github.com/networkx/networkx/pull/6647| Merged|
