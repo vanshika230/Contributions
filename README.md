@@ -9,6 +9,8 @@
 | 6     | Improve Test Coverage for Semiconnected.py |https://github.com/networkx/networkx/pull/6645| Closed-Defect|
 | 7     | Improve Test Coverage for current_flow_closeness.py |https://github.com/networkx/networkx/pull/6677| Merged|
 | 8     | Improve Test Coverage for reaching.py |https://github.com/networkx/networkx/pull/6678| Merged|
+| 9     | Improve Test Coverage for Small.py |https://github.com/networkx/networkx/pull/7260| Merged|
+
 
 
 # Issues Created :- 
