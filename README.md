@@ -11,6 +11,8 @@
 | 8     | Improve Test Coverage for reaching.py |https://github.com/networkx/networkx/pull/6678| Merged|
 | 9     | Improve Test Coverage for Small.py |https://github.com/networkx/networkx/pull/7260| Merged|
 | 10    | Improve Test Coverage for mycielski.py |https://github.com/networkx/networkx/pull/7271| Open|
+| 11    | Improve test coverage for random_clustered and update function names |https://github.com/networkx/networkx/pull/7273| Open|
+
 
 
 
