@@ -12,6 +12,8 @@
 | 9     | Improve Test Coverage for Small.py |https://github.com/networkx/networkx/pull/7260| Merged|
 | 10    | Improve Test Coverage for mycielski.py |https://github.com/networkx/networkx/pull/7271| Merged|
 | 11    | Improve test coverage for random_clustered and update function names |https://github.com/networkx/networkx/pull/7273| Open|
+| 12    | DOC: Add docstring examples to Approximations Files |https://github.com/networkx/networkx/pull/7290| Open|
+
 
 
 
