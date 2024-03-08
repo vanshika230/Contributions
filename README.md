@@ -14,7 +14,7 @@
 | 11    | Improve test coverage for random_clustered and update function names |https://github.com/networkx/networkx/pull/7273| Merged|
 | 12    | Improve test coverage for bipartite extendability |https://github.com/networkx/networkx/pull/7306| Merged|
 | 13    | Improve test coverage for bipartite matrix |https://github.com/networkx/networkx/pull/7312| Merged|
-| 14    | DOC: Add docstring examples to Approximations Files |https://github.com/networkx/networkx/pull/7290| Open|
+| 14    | DOC:Improvements in Approximations Files |https://github.com/networkx/networkx/pull/7338| Open|
 
 
 
