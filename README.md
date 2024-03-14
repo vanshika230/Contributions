@@ -15,6 +15,8 @@
 | 12    | Improve test coverage for bipartite extendability |https://github.com/networkx/networkx/pull/7306| Merged|
 | 13    | Improve test coverage for bipartite matrix |https://github.com/networkx/networkx/pull/7312| Merged|
 | 14    | DOC:Improvements in Approximations Files |https://github.com/networkx/networkx/pull/7338| Merged|
+| 15    | Improve test coverage for Steiner Tree |https://github.com/networkx/networkx/pull/7348| Open|
+
 
 
 
