@@ -2,7 +2,7 @@
 | Index | Topic | Link | Status |
 | ----- | -------- | -------- | -------- |
 | 1    | Add corner case to Degree Pearson Correlation Coefficient  |https://github.com/networkx/networkx/pull/7392| Open|
-| 2    | Improve Returns section of Optimal Edit Paths |https://github.com/networkx/networkx/pull/7375| Open|
+| 2    | Improve Returns section of Optimal Edit Paths |https://github.com/networkx/networkx/pull/7375| Merged|
 | 3    | Add Tests to link_prediction.py |https://github.com/networkx/networkx/pull/7357| Merged|
 | 4   | Improve test coverage for Steiner Tree |https://github.com/networkx/networkx/pull/7348| Merged|
 | 5    | DOC:Improvements in Approximations Files |https://github.com/networkx/networkx/pull/7338| Merged|
